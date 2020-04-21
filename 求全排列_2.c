@@ -1,13 +1,14 @@
 #include<time.h>
 #include <stdio.h>
 #define N 5
+
+
 int count=0;
 void show(char a[]);
 void swap(char *a,char *b);
 void permgen(char a[],int n);
 
 void show(char a[])
-
 {
 	int i;	
 	for(i=0;i<N;i++)
@@ -29,8 +30,7 @@ void swap(char *a,char *b)
 	*b=temp;
 }
 
-void permgen(char a[],int n)
-
+void permgen(char a[], int n)
 {
 	if(n<=1)		
 		{show(a);return;}
