@@ -1,3 +1,3 @@
 # C_language_exercise
 
-c语言项目
+C语言小练习
