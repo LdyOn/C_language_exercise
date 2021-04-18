@@ -1,3 +1,3 @@
-# C_language_exercise
+# c_testing
 
-C语言小练习
+C语言测试和小程序
